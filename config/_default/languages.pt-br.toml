@@ -1,27 +1,27 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
+languageCode = "pt-br"
+languageName = "Portuguese (Brazil)"
 weight = 1
-title = "Blowfish"
+title = "Dragon Age RPG - Wiki"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "pt-BR"
+  isoCode = "pt-br"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "Um codex sobre tudo do universo de Thedas."
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
+[params.author]
+  name = "Lila Maria"
+  email = "lila.msfrazao@gmail.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
 #   headline = "I'm only human"
 #   bio = "A little bit about you"
-#   links = [
+  links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -39,7 +39,7 @@ title = "Blowfish"
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
-#     { instagram = "https://instagram.com/username" },
+    { instagram = "https://instagram.com/instanoodleszx" },
 #     { itch-io = "https://username.itch.io" },
 #     { keybase = "https://keybase.io/username" },
 #     { keyoxide = "https://keyoxide.org/URI" },
@@ -73,4 +73,4 @@ title = "Blowfish"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+  ]
