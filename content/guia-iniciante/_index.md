@@ -19,7 +19,7 @@ Orzammar é a última grande cidade-reino dos anões, escavada no coração das 
 <div class="personagens">
 
   <div class="personagem">
-    <h3>{{<icon "sparkles">}} Nohmei</h3>
+    <h3>:sparkles: Nohmei</h3>
     <img src="/jogadoras/nohmei.png" alt="Nohmei" />
     <p class="titulo">O Mago Apóstata</p>
     <p>
@@ -28,7 +28,7 @@ Orzammar é a última grande cidade-reino dos anões, escavada no coração das 
   </div>
 
   <div class="personagem">
-    <h3>{{<icon "sword">}} Brianna</h3>
+    <h3>:sword: Brianna</h3>
     <img src="/jogadoras/brianna.png" alt="Brianna" />
     <p class="titulo">A Erguida do Pó</p>
     <p>
@@ -37,7 +37,7 @@ Orzammar é a última grande cidade-reino dos anões, escavada no coração das 
   </div>
 
   <div class="personagem">
-    <h3>{{<icon "gem">}} Rami</h3>
+    <h3>:gem: Rami</h3>
     <img src="/jogadoras/rami.png" alt="Rami" />
     <p class="titulo">O It-Boy de Orzammar</p>
     <p>
@@ -46,3 +46,4 @@ Orzammar é a última grande cidade-reino dos anões, escavada no coração das 
   </div>
 
 </div>
+
