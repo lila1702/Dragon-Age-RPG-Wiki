@@ -1,0 +1,31 @@
+.personagens {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.personagem {
+  max-width: 300px;
+  text-align: center;
+}
+
+.personagem h3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.personagem img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.personagem .titulo {
+  font-style: italic;
+  opacity: 0.85;
+  margin-top: 0.25rem;
+}
