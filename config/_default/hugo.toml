@@ -29,6 +29,10 @@ enableEmoji = true
   category = "categories"
   author = "authors"
   series = "series"
+  local = "locais"
+  raca = "racas"
+  faccao = "faccoes"
+  personagem = "personagens"
 
 [sitemap]
   changefreq = 'daily'

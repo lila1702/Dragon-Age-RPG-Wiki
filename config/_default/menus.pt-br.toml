@@ -1,69 +1,62 @@
-# -- Main Menu --
-# The main menu is displayed in the header at the top of the page.
-# Acceptable parameters are name, pageRef, page, url, title, weight.
-# 
-# The simplest menu configuration is to provide:
-#   name = The name to be displayed for this menu link
-#   pageRef = The identifier of the page or section to link to
-#
-# By default the menu is ordered alphabetically. This can be
-# overridden by providing a weight value. The menu will then be
-# ordered by weight from lowest to highest.
-
+# Menu Principal
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "Guia Iniciante"
+  pageRef = "guia-iniciante"
   weight = 10
 
 [[main]]
-  name = "Parent"
+  name = "Orzammar"
+  pageRef = "regioes/orzammar"
   weight = 20
 
 [[main]]
-  name = "example sub-menu 1"
-  parent = "Parent"
-  pageRef = "posts"
-  weight = 20
-
-[[main]]
-  name = "example sub-menu 2"
-  parent = "Parent"
-  pageRef = "posts"
-  weight = 20
-
-[[subnavigation]]
-  name = "An interesting topic"
-  pageRef = "tags/interesting-topic"
-  weight = 10
-
-[[subnavigation]]
-  name = "My Awesome Category"
-  pre = "github"
-  pageRef = "categories/awesome"
-  weight = 20
-
-[[main]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 20
-
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "Anões"
+  pageRef = "racas/anoes"
   weight = 30
 
+[[main]]
+  name = "Magia"
+  pageRef = "magia"
+  weight = 40
 
-# -- Footer Menu --
-# The footer menu is displayed at the bottom of the page, just before
-# the copyright notice. Configure as per the main menu above.
+[[main]]
+  name = "Criaturas"
+  pageRef = "criaturas"
+  weight = 50
 
+[[main]]
+  name = "Campanha"
+  pageRef = "campanha"
+  weight = 60
 
- [[footer]]
-   name = "Tags"
-   pageRef = "tags"
-   weight = 10
+# Submenu de Navegação (breadcrumbs extras)
+[[subnavigation]]
+  name = "Darkspawn"
+  pageRef = "criaturas/darkspawn"
+  weight = 10
 
- [[footer]]
-   name = "Categories"
-   pageRef = "categories"
-   weight = 20
+[[subnavigation]]
+  name = "A Carta"
+  pageRef = "faccoes/carta"
+  weight = 20
+
+[[subnavigation]]
+  name = "Sistema de Castas"
+  pageRef = "racas/anoes/castas"
+  weight = 30
+
+[[subnavigation]]
+  name = "Lyrium"
+  pageRef = "magia/lyrium"
+  weight = 40
+
+# Footer
+[[footer]]
+  name = "Glossário"
+  pageRef = "mundo/glossario"
+  weight = 10
+
+[[footer]]
+  name = "Regras"
+  pageRef = "regras"
+  weight = 20
