@@ -9,8 +9,31 @@ Bem-vindas a Thedas, um mundo de fantasia sombria onde magia é temida, dragões
 
 -------
 
-{{ $custom := resources.Get "css/custom.css" | minify }}
-<link rel="stylesheet" href="{{ $custom.RelPermalink }}">
+<style>
+.personagens {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.personagem {
+  max-width: 300px;
+  text-align: center;
+}
+
+.personagem img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.personagem .titulo {
+  font-style: italic;
+  opacity: 0.85;
+  margin-top: 0.25rem;
+}
+</style>
 
 # Nossa Campanha: Orzammar
 Orzammar é a última grande cidade-reino dos anões, escavada no coração das **Montanhas do Dorso Frio**. Uma metrópole subterrânea gigantesca, com a população dividida em tradição vs progresso, enquanto seu número de habitantes fica cada vez menor, e ameaçada constantemente por criaturas sombrias.
@@ -19,7 +42,7 @@ Orzammar é a última grande cidade-reino dos anões, escavada no coração das 
 <div class="personagens">
 
   <div class="personagem">
-    <h3>:sparkles: Nohmei</h3>
+    <h3>✨ Nohmei</h3>
     <img src="/jogadoras/nohmei.png" alt="Nohmei" />
     <p class="titulo">O Mago Apóstata</p>
     <p>
@@ -28,7 +51,7 @@ Orzammar é a última grande cidade-reino dos anões, escavada no coração das 
   </div>
 
   <div class="personagem">
-    <h3>:sword: Brianna</h3>
+    <h3>🗡️ Brianna</h3>
     <img src="/jogadoras/brianna.png" alt="Brianna" />
     <p class="titulo">A Erguida do Pó</p>
     <p>
@@ -37,7 +60,7 @@ Orzammar é a última grande cidade-reino dos anões, escavada no coração das 
   </div>
 
   <div class="personagem">
-    <h3>:gem: Rami</h3>
+    <h3>🧵 Rami</h3>
     <img src="/jogadoras/rami.png" alt="Rami" />
     <p class="titulo">O It-Boy de Orzammar</p>
     <p>
