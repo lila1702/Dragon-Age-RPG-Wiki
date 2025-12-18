@@ -38,30 +38,29 @@ Bem-vindas a Thedas, um mundo de fantasia sombria onde magia é temida, dragões
 # Nossa Campanha: Orzammar
 Orzammar é a última grande cidade-reino dos anões, escavada no coração das **Montanhas do Dorso Frio**. Uma metrópole subterrânea gigantesca, com a população dividida em tradição vs progresso, enquanto seu número de habitantes fica cada vez menor, e ameaçada constantemente por criaturas sombrias.
 
-## Nossos Protagonistas
 <div class="personagens">
 
   <div class="personagem">
     <h3>✨ Nohmei</h3>
-    <img src="/personagens/nohmei.jpeg" />
+    <img src="/personagens/nohmei.jpeg"/>
     <p class="titulo">O Mago Apóstata</p>
     <p>
-      Um jovem humano com habilidades mágicas que percorre Ferelden com sua irmã, Elara, vivendo de apresentações. Suas perrformances misturam ilusão e espetáculo, levando beleza e encantamento por onde passa.
+      Um jovem humano com habilidades mágicas que percorre Ferelden com sua irmã, Elara, vivendo de apresentações. Suas performances misturam ilusão e espetáculo, levando beleza e encantamento por onde passa.
     </p>
   </div>
 
   <div class="personagem">
     <h3>🗡️ Brianna</h3>
-    <img src="/personagens/brianna.jpeg" />
+    <img src="/personagens/brianna.jpeg"/>
     <p class="titulo">A Erguida do Pó</p>
     <p>
-      Uma anã de presença firme, ligada à corte de uma nobre influente em ascenção de Orzammar. Conhecida por sua discrição e competência, construiu sua reputação entre as profundezas da cidade.
+      Uma anã de presença firme, ligada à corte de uma nobre influente em ascensão de Orzammar. Conhecida por sua discrição e competência, construiu sua reputação entre as profundezas da cidade.
     </p>
   </div>
 
   <div class="personagem">
     <h3>🧵 Rami</h3>
-    <img src="/personagens/rami.png" />
+    <img src="/personagens/rami.png"/>
     <p class="titulo">O It-Boy de Orzammar</p>
     <p>
       Um estilista ousado e inovador que explora técnicas experimentais de infundir lyrium aos tecidos, criando vestimentas que unem luxo, identidade e um pouco de magia.
@@ -69,3 +68,18 @@ Orzammar é a última grande cidade-reino dos anões, escavada no coração das 
   </div>
 
 </div>
+
+## Explore o Mundo
+
+Esta wiki contém tudo que você precisa saber sobre Thedas e nossa campanha:
+
+- **[Guia Iniciante](/guia-iniciante)** - Comece aqui se é novo no universo de Dragon Age
+- **[Raças](/racas)** - Conheça os anões, elfos e humanos de Thedas
+- **[Personagens](/personagens)** - Protagonistas e NPCs importantes
+- **[Mundo](/mundo)** - História, geografia e cultura de Thedas
+- **[Facções](/faccoes)** - Organizações que moldam o mundo
+- **[Criaturas](/criaturas)** - Criaturas e monstros presentes existentes
+
+{{< alert "circle-info" >}}
+**Para Jogadores Novos:** Recomendo começar pelo [Guia Iniciante](/guia-iniciante) para entender os conceitos básicos antes de mergulhar nas páginas específicas.
+{{< /alert >}}
