@@ -43,7 +43,7 @@ Orzammar é a última grande cidade-reino dos anões, escavada no coração das 
 
   <div class="personagem">
     <h3>✨ Nohmei</h3>
-    <img src="/img/nohmei.jpg" alt="Nohmei" />
+    <img src="/personagens/nohmei.jpeg" />
     <p class="titulo">O Mago Apóstata</p>
     <p>
       Um jovem humano com habilidades mágicas que percorre Ferelden com sua irmã, Elara, vivendo de apresentações. Suas perrformances misturam ilusão e espetáculo, levando beleza e encantamento por onde passa.
@@ -52,7 +52,7 @@ Orzammar é a última grande cidade-reino dos anões, escavada no coração das 
 
   <div class="personagem">
     <h3>🗡️ Brianna</h3>
-    <img src="/img/brianna.jpg" alt="Brianna" />
+    <img src="/personagens/brianna.jpeg" />
     <p class="titulo">A Erguida do Pó</p>
     <p>
       Uma anã de presença firme, ligada à corte de uma nobre influente em ascenção de Orzammar. Conhecida por sua discrição e competência, construiu sua reputação entre as profundezas da cidade.
@@ -61,7 +61,7 @@ Orzammar é a última grande cidade-reino dos anões, escavada no coração das 
 
   <div class="personagem">
     <h3>🧵 Rami</h3>
-    <img src="/jogadoras/rami.png" alt="Rami" />
+    <img src="/personagens/rami.png" />
     <p class="titulo">O It-Boy de Orzammar</p>
     <p>
       Um estilista ousado e inovador que explora técnicas experimentais de infundir lyrium aos tecidos, criando vestimentas que unem luxo, identidade e um pouco de magia.
