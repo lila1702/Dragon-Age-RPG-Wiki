@@ -39,31 +39,31 @@
   pageRef = "regioes"
   weight = 80
 
-# Submenu de Navegação
-[[subnavigation]]
-  name = "Darkspawn"
-  pageRef = "criaturas/darkspawn"
-  weight = 10
-
-[[subnavigation]]
+# Dropdowns dos Menus
+[[main]]
   name = "Anões"
   pageRef = "racas/anoes"
   weight = 20
 
-[[subnavigation]]
+[[main]]
   name = "Humanos"
   pageRef = "racas/humanos"
   weight = 21
 
-[[subnavigation]]
+[[main]]
   name = "Elfos"
   pageRef = "racas/elfos"
   weight = 22
 
-[[subnavigation]]
+[[main]]
   name = "A Carta"
   pageRef = "faccoes/carta"
   weight = 30
+
+[[main]]
+  name = "Darkspawn"
+  pageRef = "criaturas/darkspawn"
+  weight = 60
 
 # Footer
 [[footer]]
