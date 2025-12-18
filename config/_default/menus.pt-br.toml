@@ -42,27 +42,32 @@
 # Dropdowns dos Menus
 [[main]]
   name = "Anões"
-  pageRef = "racas/anoes"
+  parent = "racas"
+  pageRef = "anoes"
   weight = 20
 
 [[main]]
   name = "Humanos"
-  pageRef = "racas/humanos"
+  parent = "racas"
+  pageRef = "humanos"
   weight = 21
 
 [[main]]
   name = "Elfos"
-  pageRef = "racas/elfos"
+  parent = "racas"
+  pageRef = "elfos"
   weight = 22
 
 [[main]]
   name = "A Carta"
-  pageRef = "faccoes/carta"
+  parent = "faccoes"
+  pageRef = "carta"
   weight = 30
 
 [[main]]
   name = "Darkspawn"
-  pageRef = "criaturas/darkspawn"
+  parent = "criaturas"
+  pageRef = "darkspawn"
   weight = 60
 
 # Footer
