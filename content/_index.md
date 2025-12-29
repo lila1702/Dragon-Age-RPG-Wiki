@@ -42,7 +42,8 @@ Orzammar é a última grande cidade-reino dos anões, escavada no coração das 
 
   <div class="personagem">
     <h3>✨ Nohmei</h3>
-    <img src="/imgs/personagens/nohmei.jpeg"/>
+    {{ $nohmei := resources.Get "imgs/nohmei.jpeg" }}
+    <img src="{{ $nohmei.RelPermaLink }}" width="{{ $nohmei.Width }}" height="{{ $nohmei.Height }}"/>
     <p class="titulo">O Mago Apóstata</p>
     <p>
       Um jovem humano com habilidades mágicas que percorre Ferelden com sua irmã, Elara, vivendo de apresentações. Suas performances misturam ilusão e espetáculo, levando beleza e encantamento por onde passa.

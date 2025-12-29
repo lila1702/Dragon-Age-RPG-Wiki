@@ -9,5 +9,5 @@ draft = false
 Acompanhamento da jornada de nossos protagonistas por Orzammar e Thedas aqui
 
 ## Resumos das Sessões
-- [**Sessão 01** - No Vilarejo da Passagem de Gherlen](/sessoes/sessao-1)S
+- [**Sessão 01** - No Vilarejo da Passagem de Gherlen]({{< relref "sessoes/sessao-1.md" >}})
 - **Sessão 02** - Em Breve...
