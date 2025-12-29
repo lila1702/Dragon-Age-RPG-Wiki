@@ -5,7 +5,6 @@ date = 2025-12-29
 draft = false
 +++
 
-# A Campanha
 Acompanhamento da jornada de nossos protagonistas por Orzammar e Thedas aqui
 
 ## Resumos das Sessões

@@ -5,20 +5,28 @@ date = 2025-12-29
 draft = false
 +++
 
-Nohmei e sua irmã, Elara, chegaram em um dos vilarejos espalhados pela Passagem de Gherlen, no pé das Montranhas do Dorso Frio. Precisando de dinheiro, Nohmei fez uma apresentação de mágica para os aldeões, assim conseguindo algumas moedas, e posteriormente conseguiu um lugar para dormir ao oferecer alguns serviços em troca por uma cama quentinha e comida.
+**Nohmei** e sua irmã, **Elara**, chegaram a um dos vilarejos espalhados pela **Passagem de Gherlen**, aos pés das **Montanhas do Dorso Frio**.
 
-Ele fez uma apresentação na praça principal do vilarejo, agradando a maioria das crianças e atraindo alguns dos pais, além de interessar alguns dos vendedores no local. Ao mesmo tempo, Brianna acabava de chegar no vilarejo, buscando um candidato suficientemente inocente e chamativo para levar de volta para Orzammar, e ao ver a fênix de fogo do mago, ela encontrou seu alvo.
+Precisando de dinheiro, **Nohmei** decidiu fazer uma apresentação de mágica para os aldeões. O espetáculo lhe rendeu algumas moedas e, mais tarde, também um lugar para dormir, ao oferecer alguns serviços em troca de uma cama quente e comida.
 
-Brianna também está encarregada de buscar algo com Bodahn Feddic, um mercador ambulante que deveria estar a esperando à caminho do vilarejo, mas que não estava no ponto de encontro quando ela passou.
+A apresentação aconteceu na praça principal do vilarejo, agradando principalmente as crianças, e chamando a atenção de alguns pais e despertando o interesse de alguns vendedores locais.
 
-Nohmei e Elara trabalharam para a estalagem Pé de Coelho, a pedido de Fiona, a gerente e recepcionista. Nohmei foi caçar animais para servirem no jantar enquanto Elara trabalhava de garçonete.
+Ao mesmo tempo, **Brianna** chegava ao vilarejo. Ela procurava alguém suficientemente inocente e chamativo para levar de volta a **Orzammar**. Ao ver a fênix de fogo conjurada por **Nohmei**, ela encontrou seu alvo.
 
-Ele caçou dois esquilos que estavam acasalando, e um coelho, e Brianna, que havia o seguido, caçou um javali para ele.
+Além disso, **Brianna** estava encarregada de encontrar **Bodahn Feddic**, um mercador ambulante que deveria estar à sua espera no caminho do vilarejo. No entanto, ele não estava no ponto de encontro quando ela passou por lá.
 
-Eles se juntaram e deram o javali para o chef de cozinha da estalagem, que os informou que o vilarejo está com problemas para conseguir animais para servir de comida, e que apesar disso, por algum motivo, eles são contra comer animais de pequeno porte.
+**Nohmei** e **Elara** trabalharam para a estalagem **Pé de Coelho**, a pedido de **Fiona**, a gerente e recepcionista do local. **Nohmei** foi caçar animais para o jantar enquanto **Elara** trabalhava como garçonete.
 
-O chef aceitou o javali e deu para eles como recompensa duas garrafas de vinho Orlesianos.
+Durante a caçada, **Nohmei** conseguiu dois esquilos que estavam acasalando e um coelho. **Brianna**, que o havia seguido, caçou um javali para ele, após o ver tendo dificuldade para se esconder nas árvores.
 
-Nohmei substitituiu Elara como garçom, e ela e Brianna conversaram sobre o plano de Brianna. No fim, Brianna os convenceu a seguí-la até Orzammar para começarem seus negócios lá, onde eles poderiam ganhar muito mais do que conseguiriam na superfície.
+Após se apresentarem um para o outro e se juntarem, eles entregaram o javali ao **chef de cozinha** da estalagem.
 
-No fim da noite, Brianna, que transformou Fiona e o chef de cozinha num **contato** seu, ficou sabendo que recentemente, com certa frequência, tem passado muitos estrangeiros no vilarejo, guerreiros estranhos, que chegavam de dia, comiam, e saíam a noite, e nunca mais eram vistos pelas redondezas.
+Ele explicou que o vilarejo estava enfrentando dificuldades para conseguir animais para servir como comida e que, apesar disso, por algum motivo, os moradores eram contra consumir animais de pequeno porte.
+
+Como recompensa pelo javali, o **chef** lhes deu duas garrafas de vinho orlesiano.
+
+Mais tarde, **Nohmei** substituiu **Elara** como garçom. Enquanto isso, **Elara** e **Brianna** conversaram sobre os planos de **Brianna**.
+
+Ao final da conversa, **Brianna** conseguiu convencê-los a segui-la até **Orzammar**, onde poderiam iniciar seus negócios e ganhar muito mais do que conseguiriam na superfície.
+
+No fim da noite, **Brianna**, que agora tem **Fiona** e o **chef de cozinha** como partes de sua rede de contatos, ficou sabendo que recentemente, muitos estrangeiros têm passado no vilarejo, guerreiros estranhos, que chegavam durante o dia, comiam, e partiam à noite, nunca mais sendo vistos pelas redondezas.
