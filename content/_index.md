@@ -2,10 +2,10 @@
 title = "Dragon Age RPG - Wiki"
 description = "Codex completo sobre Thedas e a campanha de RPG focada em Orzammar"
 date = 2025-12-17
-showAuthor = false
+<!-- showAuthor = false
 showDate = false
 showReadingTime = false
-showWordCount = false
+showWordCount = false -->
 +++
 -------
 
