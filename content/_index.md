@@ -2,6 +2,10 @@
 title = "Dragon Age RPG - Wiki"
 description = "Codex completo sobre Thedas e a campanha de RPG focada em Orzammar"
 date = 2025-12-17
+showAuthor = false
+showDate = false
+showReadingTime = false
+showWordCount = false
 +++
 -------
 
@@ -38,7 +42,7 @@ Orzammar é a última grande cidade-reino dos anões, escavada no coração das 
 
   <div class="personagem">
     <h3>✨ Nohmei</h3>
-    <img src="/static/imgs/personagens/nohmei.jpeg"/>
+    <img src="/imgs/personagens/nohmei.jpeg"/>
     <p class="titulo">O Mago Apóstata</p>
     <p>
       Um jovem humano com habilidades mágicas que percorre Ferelden com sua irmã, Elara, vivendo de apresentações. Suas performances misturam ilusão e espetáculo, levando beleza e encantamento por onde passa.
@@ -47,7 +51,7 @@ Orzammar é a última grande cidade-reino dos anões, escavada no coração das 
 
   <div class="personagem">
     <h3>🗡️ Brianna</h3>
-    <img src="/static/imgs/personagens/brianna.jpeg"/>
+    <img src="/imgs/personagens/brianna.jpeg"/>
     <p class="titulo">A Erguida do Pó</p>
     <p>
       Uma anã de presença firme, ligada à corte de uma nobre influente em ascensão de Orzammar. Conhecida por sua discrição e competência, construiu sua reputação entre as profundezas da cidade.
@@ -56,7 +60,7 @@ Orzammar é a última grande cidade-reino dos anões, escavada no coração das 
 
   <div class="personagem">
     <h3>🧵 Rami</h3>
-    <img src="/personagens/rami.png"/>
+    <img src="/imgs/personagens/rami.png"/>
     <p class="titulo">O It-Boy de Orzammar</p>
     <p>
       Um estilista ousado e inovador que explora técnicas experimentais de infundir lyrium aos tecidos, criando vestimentas que unem luxo, identidade e um pouco de magia.
