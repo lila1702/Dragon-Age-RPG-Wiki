@@ -1,12 +1,8 @@
 +++
 title = "Dragon Age RPG - Wiki"
-description = "Codex completo sobre Thedas e a campanha focada em Orzammar"
+description = "Codex completo sobre Thedas e a campanha de RPG focada em Orzammar"
 date = 2025-12-17
 +++
-{{< lead >}}
-Dragon Age é um cenário de fantasia onde magia é perigosa, instituições religiosas exercem controle político, e conflitos raramente têm soluções simples.
-{{< /lead >}}
-
 -------
 
 <style>
@@ -42,7 +38,7 @@ Orzammar é a última grande cidade-reino dos anões, escavada no coração das 
 
   <div class="personagem">
     <h3>✨ Nohmei</h3>
-    <img src="/personagens/Nohmei.jpeg"/>
+    <img src="personagens/Nohmei.jpeg"/>
     <p class="titulo">O Mago Apóstata</p>
     <p>
       Um jovem humano com habilidades mágicas que percorre Ferelden com sua irmã, Elara, vivendo de apresentações. Suas performances misturam ilusão e espetáculo, levando beleza e encantamento por onde passa.
@@ -51,7 +47,7 @@ Orzammar é a última grande cidade-reino dos anões, escavada no coração das 
 
   <div class="personagem">
     <h3>🗡️ Brianna</h3>
-    <img src="/personagens/Brianna.jpeg"/>
+    <img src="personagens/Brianna.jpeg"/>
     <p class="titulo">A Erguida do Pó</p>
     <p>
       Uma anã de presença firme, ligada à corte de uma nobre influente em ascensão de Orzammar. Conhecida por sua discrição e competência, construiu sua reputação entre as profundezas da cidade.
