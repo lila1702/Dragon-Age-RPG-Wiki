@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "/"
+baseURL = "https://lila1702.github.io/Dragon-Age-RPG-Wiki/"
 defaultContentLanguage = "pt-br"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
