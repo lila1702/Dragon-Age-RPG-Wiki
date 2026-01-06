@@ -1,3 +1,15 @@
+nav {
+  height: auto !important;
+  min-height: 4rem;
+}
+
+body {
+  background-image: var(--background-image);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
 .personagens {
   display: flex;
   gap: 2rem;
