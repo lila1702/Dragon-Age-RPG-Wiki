@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guia Iniciante on Dragon Age RPG - Wiki</title>
+    <link>http://localhost:1313/Dragon-Age-RPG-Wiki/guia-iniciante/</link>
+    <description>Recent content in Guia Iniciante on Dragon Age RPG - Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>lila.msfrazao@gmail.com (Lila Maria)</managingEditor>
+    <webMaster>lila.msfrazao@gmail.com (Lila Maria)</webMaster>
+    <copyright>© 2026 Lila Maria</copyright>
+    <lastBuildDate>Wed, 17 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Dragon-Age-RPG-Wiki/guia-iniciante/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bem-Vindas</title>
+      <link>http://localhost:1313/Dragon-Age-RPG-Wiki/guia-iniciante/como-usar-a-wiki/</link>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+      <author>lila.msfrazao@gmail.com (Lila Maria)</author>
+      <guid>http://localhost:1313/Dragon-Age-RPG-Wiki/guia-iniciante/como-usar-a-wiki/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/Dragon-Age-RPG-Wiki/guia-iniciante/o-que-seu-personagem-sabe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>lila.msfrazao@gmail.com (Lila Maria)</author>
+      <guid>http://localhost:1313/Dragon-Age-RPG-Wiki/guia-iniciante/o-que-seu-personagem-sabe/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/Dragon-Age-RPG-Wiki/guia-iniciante/tom-da-campanha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>lila.msfrazao@gmail.com (Lila Maria)</author>
+      <guid>http://localhost:1313/Dragon-Age-RPG-Wiki/guia-iniciante/tom-da-campanha/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dragon Age RPG - Wiki</title>
-    <link>//localhost:1313/tags/</link>
+    <link>http://localhost:1313/Dragon-Age-RPG-Wiki/tags/</link>
     <description>Recent content in Tags on Dragon Age RPG - Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>lila.msfrazao@gmail.com (Lila Maria)</managingEditor>
     <webMaster>lila.msfrazao@gmail.com (Lila Maria)</webMaster>
-    <copyright>© 2025 Lila Maria</copyright>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Lila Maria</copyright>
+    <atom:link href="http://localhost:1313/Dragon-Age-RPG-Wiki/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

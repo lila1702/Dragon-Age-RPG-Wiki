@@ -3,22 +3,176 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/campanha/</loc>
+    <lastmod>2025-12-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/campanha/sessoes/sessao-1/</loc>
+    <lastmod>2025-12-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/campanha/sessoes/todas-as-sessoes/</loc>
+    <lastmod>2025-12-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/first-post/</loc>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/guia-iniciante/como-usar-a-wiki/</loc>
+    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/</loc>
+    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/guia-iniciante/</loc>
+    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/mundo/</loc>
+    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/regioes/</loc>
+    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/regras/</loc>
+    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/about/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/campanha/sessoes/sessao-2/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/faccoes/carta/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/faccoes/circulo-dos-magos/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/faccoes/moldadores/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/guia-iniciante/o-que-seu-personagem-sabe/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/guia-iniciante/tom-da-campanha/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/mundo/glossario/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/mundo/thedas/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/personagens/brianna/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/personagens/elara/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/personagens/melvira/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/personagens/nohmei/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/personagens/rami/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/racas/anoes/castas/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/racas/anoes/cultura/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/racas/anoes/religiao/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/racas/elfos/alienarios/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/racas/humanos/ferelden/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/racas/humanos/nevarra/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/racas/humanos/orleis/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/regioes/ferelden/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/regioes/orleis/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Dragon-Age-RPG-Wiki/regioes/orzammar/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
