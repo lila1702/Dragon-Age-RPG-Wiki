@@ -1,8 +1,22 @@
+/* Alinhamento do header */
 nav {
   height: auto !important;
   min-height: 4rem;
+  display: flex !important;
+  align-items: center !important;
 }
 
+/* Ocultar autor completamente em todas as páginas */
+.article-author,
+.author,
+.byline,
+[class*="author"],
+.prose .article-author,
+.background .article-author {
+  display: none !important;
+}
+
+/* Background em todas as páginas */
 body {
   background-image: url('/Dragon-Age-RPG-Wiki/img/slanted-gradient.svg');
   background-size: cover;
@@ -11,15 +25,30 @@ body {
   background-repeat: no-repeat;
 }
 
+/* Blur no conteúdo de todas as páginas para consistência */
+.article-content,
+.max-w-prose,
+main article {
+  background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  padding: 2rem;
+  border-radius: 8px;
+}
+
+/* Personagens lado a lado */
 .personagens {
-  display: flex;
+  display: flex !important;
   gap: 2rem;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: flex-start;
 }
 
 .personagem {
+  flex: 0 1 300px;
   max-width: 300px;
+  min-width: 250px;
   text-align: center;
 }
 
@@ -31,11 +60,15 @@ body {
   margin-bottom: 0.5rem;
 }
 
+.personagem figure {
+  margin: 0 !important;
+}
+
 .personagem img {
   width: 100%;
   height: 350px;
   object-fit: cover;
-  object-position: center 30%;
+  object-position: center 15%;
   border-radius: 6px;
 }
 
